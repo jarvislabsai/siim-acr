@@ -1,3 +1,4 @@
 kaggle>=1.5.12
 fastai==2.3.1
 pydicom==2.1.2
+pydicom>=timm-0.4.9
